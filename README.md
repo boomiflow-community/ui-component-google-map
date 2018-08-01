@@ -1,11 +1,12 @@
 ## Google maps custom component
-This custom component will allow you to add a custom map that places lat/long pairs, and additional data, in a Boomi Flow custom component.  It leverages the google maps javascript API.
+This custom component will allow you to add a custom map that places lat/long pairs, and additional data, in a Boomi Flow custom component.  It leverages the google maps javascript API: https://developers.google.com/maps/documentation/javascript/tutorial
 
 
 
 
 
-## Below here are the instructions from the original ui-custom-component module here: https://github.com/manywho/ui-custom-component
+## Below here are the instructions from the original ui-custom-component module here:
+https://github.com/manywho/ui-custom-component
 A small `webpack` based boilerplate for creating custom Boomi Flow UI components.
 
 ## Setup
