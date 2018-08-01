@@ -1,4 +1,4 @@
-##Gogole maps custom component
+## Google maps custom component
 This custom component will allow you to add a custom map that places lat/long pairs, and additional data, in a Boomi Flow custom component.  It leverages the google maps javascript API.
 
 
